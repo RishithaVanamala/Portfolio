@@ -84,7 +84,7 @@ their algorithmic proficiency.
             </div>
           </div>
           <p className="relative pb-4 md:border-b dark:text-gray-200 md:border-gray-300 md:dark:border-gray-400 md:col-span-3 text-[1.7rem] font-sans">
-          <span className="text-3xl font-bold text-black">Django Developer</span><br/>
+          <span className="text-3xl font-bold dark:text-gray-200 ">Django Developer:</span><br/>
           • Designed and developed over 10 new high-performance, and efficient Django based REST API solutions, while
             concurrently improving existing ones for optimal performance. <br />
           • Created and maintained technical API documentation for new and existing APIs using Swagger. <br />
@@ -98,7 +98,7 @@ their algorithmic proficiency.
           
           <br />
           
-          <span className="text-3xl font-bold text-black">Java Developer</span><br/>
+          <span className="text-3xl font-bold dark:text-gray-200">Java Developer:</span><br/>
           • Developed Spring Boot REST API microservices, optimizing CRUD operations and achieving a 20% increase in API
             throughput. <br />
           • Utilized key AWS services, such as DynamoDB, EMR, EC2, and Lambda, to construct cloud-based solutions.<br />
