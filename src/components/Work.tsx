@@ -58,17 +58,8 @@ const Work = () => {
               </p>
             </div>
           </div>
-          <p className="relative pb-4 md:border-b dark:text-gray-200 md:border-gray-300 md:dark:border-gray-400 md:col-span-3 text-[1.7rem] font-sans">
-          • Designed and developed over 10 new high-performance and efficient Django REST API solutions, concurrently improving
-            existing ones for optimal performance. Documented and updated technical API documentation.<br />
-          • Headed API integration for 3 clients, collaborating with cross-functional teams to ensure seamless functionality.<br />
-          • Deployed end-to-end cloud-based solutions utilizing AWS services such as DynamoDB, EMR, EC2, and Redshift to enhance
-            infrastructure scalability and reliability.<br />
-          • Handled production incidents by monitoring Sentry logs, ensuring 99% system uptime during migrations and updates.<br />
-          • Resolved technical issues, implemented unit tests in existing applications using test-driven development (TDD)
-            methodologies and Postman, reducing overall bugs by 10%.<br />
-          • Implemented payment solutions with secure card linking and increased efficiency by 40% with automated Celery jobs.<br />
-          • Conducted code reviews to enforce high code quality standards, leading to a 50% reduction in post-deployment bugs.<br />
+          <p className="relative pb-4 md:border-b dark:text-gray-200 md:border-gray-300 md:dark:border-gray-400 md:col-span-3 text-[1.6rem] font-sans">
+          Embarking on a journey fueled by a passion for backend technologies, I've had the opportunity to work on developing and refining over ten Django REST API solutions, focusing on performance improvements and contributing to the existing codebase. I've enjoyed the challenge of integrating APIs for three clients, working closely with teams across different functions to ensure everything runs smoothly. My projects have led me into the cloud, where I've gotten to use AWS services like DynamoDB, EMR, EC2, and Redshift, helping to make our infrastructure more scalable and reliable. Keeping an eye on Sentry logs, I've been part of efforts to maintain system uptime at 99% during key migrations and updates. I've also embraced the practice of test-driven development and used tools like Postman to address technical issues, which has helped reduce bugs by 10%. On the efficiency front, I've implemented payment solutions and automated tasks with Celery, seeing a significant improvement in our processes. By participating in code reviews, I've learned a lot about maintaining high standards of code quality, which has greatly reduced post-deployment issues. It's been a rewarding journey of growth, collaboration, and learning.
           </p>
         </Article>
       </section>
@@ -103,13 +94,8 @@ const Work = () => {
               </p>
             </div>
           </div>
-          <p className="relative pb-4 md:border-b dark:text-gray-200 md:border-gray-300 md:dark:border-gray-400 md:col-span-3 text-[1.7rem] font-sans">
-          • Upgraded existing APIs with advanced data filters and expanded response fields, resulting in 20% improved functionality.<br />
-          • Integrated Git for version control, facilitating collaboration. Orchestrated CI/CD pipelines for automated software delivery,
-            boosting deployment efficiency, utilizing Jenkins and Docker. Deployed Datadog for API performance optimization.<br />
-          • Developed database-driven applications working with relational databases and non-relational databases.<br />
-          • Adapted Agile methodology for development, orchestrating daily Scrum meetings to drive collaborative projects through the
-            software development life cycle (SDLC).<br />
+          <p className="relative pb-4 md:border-b dark:text-gray-200 md:border-gray-300 md:dark:border-gray-400 md:col-span-3 text-[1.6rem] font-sans">
+          Diving into the world of software development, I had the opportunity to significantly enhance our APIs by adding advanced data filters and expanding response fields, leading to a 20% improvement in functionality. While employing Git for version control to enhance collaboration, I contributed to the use of CI/CD pipelines, utilizing Jenkins and Docker, which significantly increased our deployment efficiency. My development work extended to crafting database-driven applications, skillfully working with both relational and non-relational databases. In adopting the Agile methodology, I actively participated in daily Scrum meetings, contributing to our team's efforts to navigate the software development life cycle (SDLC) effectively.  My focus on optimizing performance also led me to utilize tools like Datadog, enhancing our API's efficiency and reliability.
           </p>
         </Article>
 
@@ -142,13 +128,8 @@ const Work = () => {
               </p>
             </div>
           </div>
-          <p className="relative pb-4 md:border-b dark:text-gray-200 md:border-gray-300 md:dark:border-gray-400 md:col-span-3 text-[1.7rem] font-sans">
-          • Developed full-stack application using Spring Boot for REST API microservices, optimizing CRUD operations, and
-            integrating with a React-based frontend. <br />
-          • Enhanced user experience by implementing robust front-end and back-end pagination across all features.<br />
-          • Architected a flexible framework for webhooks using Lambda, enabling automatic email triggers and data synchronization.<br />
-          • Played a pivotal role in Apache Kafka integration, facilitating efficient data transfer across multiple organizations, which
-            improved API performance by about 20% and upgraded data handling capabilities.<br />
+          <p className="relative pb-4 md:border-b dark:text-gray-200 md:border-gray-300 md:dark:border-gray-400 md:col-span-3 text-[1.6rem] font-sans">
+Starting my journey as a full-stack developer, I played a key role in developing a sophisticated application with Spring Boot for REST API microservices and integrating a React-based frontend, aimed at bridging server and client-side technologies. My efforts in implementing efficient pagination enhanced user navigation, while architecting a Lambda-based webhook framework automated communications and data synchronization. Additionally, I played a key role in the integration of Apache Kafka, a move that significantly improved our API's performance by approximately 20% and strengthened our data handling capabilities. This experience underscored the value of collaboration, innovation, and the continuous pursuit of improvement in the evolving landscape of software development.
           </p>
         </Article>
       </section>

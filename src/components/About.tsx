@@ -26,8 +26,7 @@ const About = () => {
             As a Graduate Teaching Assistant, I've mentored students in Data Structures and Algorithms, significantly enhancing their coding skills and algorithmic proficiency.
           </LeftPara>
           <LeftPara>
-          Previously, I contributed as a Software Engineer at Loyalty Juggernaut in Hyderabad, where I designed high-performance Django-based REST API solutions 
-          ,markedly improving system efficiency and user engagement. At Model N, I honed my skills by developing full-stack applications with Spring Boot for the backend 
+          Previously, I contributed as a Software Engineer at Loyalty Juggernaut in Hyderabad, where I designed high-performance Django-based REST API solutions, markedly improving system efficiency and user engagement. At Model N, I honed my skills by developing full-stack applications with Spring Boot for the backend 
           and integrating React for the frontend, optimizing CRUD operations and enhancing the user experience.
           </LeftPara>
 
