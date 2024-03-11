@@ -27,7 +27,8 @@ const About = () => {
           </LeftPara>
           <LeftPara>
           Previously, I contributed as a Software Engineer at Loyalty Juggernaut in Hyderabad, where I designed high-performance Django-based REST API solutions 
-          and developed Spring Boot-based microservices, markedly improving system efficiency and user engagement.
+          ,markedly improving system efficiency and user engagement. At Model N, I honed my skills by developing full-stack applications with Spring Boot for the backend 
+          and integrating React for the frontend, optimizing CRUD operations and enhancing the user experience.
           </LeftPara>
 
           <LeftPara>
@@ -126,7 +127,7 @@ const About = () => {
               data-aos-duration="400"
               data-aos-once="true"
             >
-              <CardHeading>Developer Tools</CardHeading>
+              <CardHeading>Tools & Databases</CardHeading>
               <LangDiv3>
                 {Tools.map((val) => {
                   return [
@@ -161,7 +162,7 @@ const About = () => {
               data-aos-duration="400"
               data-aos-once="true"
             >
-              <CardHeading>Other Technologies</CardHeading>
+              <CardHeading>Cloud & Other</CardHeading>
               <LangDiv4>
                 {Other.map((val) => {
                   return [

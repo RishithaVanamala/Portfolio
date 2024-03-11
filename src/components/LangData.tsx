@@ -34,7 +34,7 @@ interface Obj {
       index: 5,
       src: "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg",
       alt: "Javascript",
-      width: "40",
+      width: "30",
     },
     {
       index: 6,
@@ -62,11 +62,23 @@ interface Obj {
     },
     {
       index: 10,
-      src: " https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg",
+      src: "https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg",
       alt: "Haskell",
       width: "40",
     },
-  
+    {
+      index: 11,
+      src: "https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg",
+      alt: "Golang",
+      width: "40",
+    },
+    {
+      index: 12,
+      src: "https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg",
+      alt: "PHP",
+      width: "40",
+    }
+
 
   ];
   
@@ -186,12 +198,18 @@ interface Obj {
     index: 10,
     src: "https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg",
     alt: "Eclipse",
-    width: "40",
+    width: "30",
   },
   {
     index: 11,
     src: "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
     alt: "Mysql",
+    width: "40",
+  },
+  {
+    index: 12,
+    src: "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
+    alt: "Mongodb",
     width: "40",
   },
   
@@ -243,28 +261,34 @@ interface Obj {
     },
     {
       index: 8,
-      src: "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
-      alt: "Mongodb",
-      width: "40",
-    },
-    {
-      index: 9,
       src: "https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg",
       alt: "Oracle",
       width: "40",
     },
     {
-      index: 10,
+      index: 9,
       src: "https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg",
       alt: "sql-server",
       width: "40",
     },
     {
-      index: 11,
+      index: 10,
       src: "https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original-wordmark.svg",
       alt: "JUnit",
       width: "40",
     },
+    {
+      index: 11,
+      src: "https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg",
+      alt: "Maven",
+      width: "40",
+    },
+    {
+      index: 12,
+      src: "https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg",
+      alt: "Kubernetes",
+      width: "40",
+    }
   ];
   
   export { Languages, Web, Tools, Other };
