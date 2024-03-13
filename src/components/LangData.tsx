@@ -136,6 +136,12 @@ interface Obj {
       src: "https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg",
       alt: "Tailwind-CSS",
       width: "40",
+    },
+    {
+      index: 10,
+      src: "https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg",
+      alt: ".NET",
+      width: "40",
     }
   ];
   
