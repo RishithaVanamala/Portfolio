@@ -84,7 +84,7 @@ const Header = () => {
         </header>
 
         <BtnDiv data-aos="fade-right" data-aos-duration="1000">
-          <a href="https://drive.google.com/file/d/1djjGCDT8X45u2ivIDYqiHvyjZOBgVYEP/view?usp=drive_link" target="_blank" onClick={ ()=>{ ReactGa.event({category: "Resume", action:"Downloaded Resume", label:"Test Label"})}} rel="noreferrer">
+          <a href="https://drive.google.com/file/d/1b0mSNRpDn0yRhC5pOeSWAptfS4rtqD5q/view?usp=drive_link" target="_blank" onClick={ ()=>{ ReactGa.event({category: "Resume", action:"Downloaded Resume", label:"Test Label"})}} rel="noreferrer">
             <Button2 aria-label="button" className="group" onClick={()=>{navigator.vibrate(1000)}}>
               Resume
               <svg
